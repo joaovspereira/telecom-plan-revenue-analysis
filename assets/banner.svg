@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="256" viewBox="0 0 1200 256" role="img" aria-label="Telecom Plan Revenue Analysis">
+<rect width="1200" height="256" rx="18" fill="#101E2C"/><path d="M885 0v256M975 0v256M1065 0v256M1155 0v256M840 48h360M840 128h360M840 208h360" stroke="#20394A"/>
+<path d="M890 194L955 145L1018 165L1080 74L1152 104" fill="none" stroke="#69E5BE" stroke-opacity=".45" stroke-width="3"/>
+<rect x="42" y="43" width="4" height="164" rx="2" fill="#69E5BE"/>
+<g font-family="Arial,sans-serif"><text x="65" y="69" font-size="14" font-weight="700" letter-spacing="2" fill="#69E5BE">BUSINESS ANALYTICS</text>
+<text x="65" y="125" font-size="34" font-weight="700" fill="#F4F8FC">Telecom Plan Revenue Analysis</text><text x="65" y="168" font-size="19" fill="#BECDD9">Billing rules · Cohort comparison · Statistical testing</text>
+<text x="65" y="214" font-size="14" fill="#839BAB">JOÃO VITOR PEREIRA / DATA SCIENCE PORTFOLIO</text></g></svg>

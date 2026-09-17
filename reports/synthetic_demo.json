@@ -1,0 +1,31 @@
+{
+  "dataset": "synthetic fixture",
+  "invoices": [
+    {
+      "user_id": 1,
+      "plan": "demo",
+      "month": "2018-01",
+      "minutes": 3.0,
+      "messages": 2.0,
+      "gb": 2.0,
+      "usd_monthly_pay": 20,
+      "extra_minute_usd": 0.06,
+      "extra_message_usd": 0.03,
+      "extra_data_usd": 10.0,
+      "revenue_usd": 30.09
+    },
+    {
+      "user_id": 2,
+      "plan": "demo",
+      "month": "2018-01",
+      "minutes": 0.0,
+      "messages": 0.0,
+      "gb": 0.0,
+      "usd_monthly_pay": 20,
+      "extra_minute_usd": 0.0,
+      "extra_message_usd": 0.0,
+      "extra_data_usd": 0.0,
+      "revenue_usd": 20.0
+    }
+  ]
+}
